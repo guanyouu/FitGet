@@ -1,4 +1,4 @@
 Team ID: 7439
-\nTeam Name: FitGet
-\nRayson Yap Han Jun
-\nChen Guanyou
+Team Name: FitGet
+Rayson Yap Han Jun
+Chen Guanyou
